@@ -26,6 +26,7 @@
     </data-set>
     <resources>
       <code path="index.ts" order="1"/>
+       <css path="css/style.css" />
       <!-- UNCOMMENT TO ADD MORE RESOURCES
       <css path="css/ActivityTimelineControl.css" order="1" />
       <resx path="strings/ActivityTimelineControl.1033.resx" version="1.0.0" />
